@@ -15,14 +15,18 @@ Create a method to converting numbers to numerals and a method to convert numera
 
 #### Example Tests
 
-| Test Case | Input | Expected Output  |
-|-----------|-------|------------------|
-| Test1     |       | throws Exception |
-| Test2     | I     | 1                |
-| Test3     | II    | 2                |
-| Test4     | III   | 3                |
-| Test5     | IV    | 4                |
-| Test6     | V     | 5                |
+| Test Case | Input  | Expected Output  |
+|-----------|--------|------------------|
+| Test1     |        | throws Exception |
+| Test2     | I      | 1                |
+| Test3     | II     | 2                |
+| Test4     | III    | 3                |
+| Test5     | IV     | 4                |
+| Test6     | XIX    | 19               |
+| Test7     | XLVIII | 48               |
+| Test8     | DLV    | 555              |
+| Test9     | CM     | 900              |
+| Test10    | MMM    | 3000             |
 
 <br/>
 
