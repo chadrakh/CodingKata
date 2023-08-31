@@ -6,6 +6,11 @@
 
 Create a method to converting numbers to numerals and a method to convert numerals to numbers. The Romans wrote numbers using letters, such as I, V, X, L, C, D, M.
 
+#### Key Points
+- Validating numerals in both methods
+- Handling subtraction rule exceptions
+- Parse numerals LTR or RTL
+
 <br/>
 
 #### Example Tests
@@ -29,6 +34,10 @@ Create a method to converting numbers to numerals and a method to convert numera
 ### <u>[Bowling Game Kata](https://codingdojo.org/kata/Bowling/)</u>
 
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game.
+
+#### Key Points
+- Handling bonus scoring
+- Lookahead for score when bowler throws striker or spare
 
 <br/>
 
